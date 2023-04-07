@@ -40,7 +40,7 @@
     <link href="js/animations/css/animations.min.css" rel="stylesheet" type="text/css" media="all" />
 
 <!-- just remove the below comments witch color skin you want to use -->
-    <!--<link rel="stylesheet" href="css/colors/red.css" /-->
+    <!--<link rel="stylesheet" href="css/colors/red.css" />
     <!--<link rel="stylesheet" href="css/colors/green.css" />-->
     <!--<link rel="stylesheet" href="css/colors/cyan.css" />-->
     <!--<link rel="stylesheet" href="css/colors/orange.css" />-->
@@ -180,30 +180,14 @@
 <div class="section1" id="about">
 
 	<h1>About Me</h1>
-    <h5><b>A seasoned producer making content that cuts through the noise.
-	Over 10 million views on my personal TikTok content, and millions more with the brands I’ve worked with.
-    </b></h5>
+    <h5><b>A seasoned producer making content that cuts through the noise.<br /> 
+	Over 4.5 million views on my personal TikTok channel.<br /> 
+	Millions more with the brands I’ve worked with.
+        </b></h5>
+
 
 </div>
-</div><!-- end about section
-
-<div class="funfacts">
-<div class="container animate" data-anim-type="fadeIn" data-anim-delay="800">
-
-    <div class="one_fifth"> <span id="target">0</span> <h4>Projects</h4> </div>
-    
-    <div class="one_fifth"> <span id="target2">0</span> <h4>Clients</h4> </div>
-    
-    <div class="one_fifth"> <span id="target3">0</span> <h4>Awards</h4> </div>
-    
-    <div class="one_fifth"> <span id="target4">0</span> <h4>Likes</h4> </div>
-    
-    <div class="one_fifth last"> <span id="target5">0</span> <h4>Days</h4> </div>
-    
-</div>
-</div><!-- end fun facts section -->
-
-
+</div><!-- end about section -->
 
 <div class="clearfix"></div>
 
@@ -229,7 +213,7 @@
 	<div id="grid-container" class="cbp-l-grid-fullScreen">
         <ul>
 		<li class="cbp-item featured motion demo">
-                <a href="https://www.youtube.com/watch?v=dztylZlZpiM" class="cbp-caption cbp-lightbox" data-title="Demo-Reel">
+                <a href="https://www.youtube.com/watch?v=T0Oh9aHc6GI" class="cbp-caption cbp-lightbox" data-title="Demo-Reel">
                     <div class="cbp-caption-defaultWrap">
                         <img src="images/media/demo-reel2.jpg" alt="joshchakka-demo-reel" />
                     </div>
@@ -737,6 +721,7 @@
         <li class="animate" data-anim-type="zoomIn" data-anim-delay="600"><a href="https://ca.linkedin.com/in/joshchakka"><i class="fa fa-linkedin"></i></a></li>
         <li class="animate" data-anim-type="zoomIn" data-anim-delay="800"><a href="https://www.instagram.com/joshchakka/"><i class="fa fa-instagram"></i></a></li>
         <li class="animate" data-anim-type="zoomIn" data-anim-delay="1000"><a href="https://www.youtube.com/c/joshchakka"><i class="fa fa-youtube"></i></a></li>
+		<li class="animate" data-anim-type="zoomIn" data-anim-delay="1000"><a href="https://www.youtube.com/c/joshchakka"><i class="fa fa-tiktok"></i></a></li>
     </ul>
 
     <div class="clearfix"></div>
